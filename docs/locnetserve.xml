@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+  <Program_Info>
+    <Program_Name>LocNetServe</Program_Name>
+    <Program_Description>A web development platform for Windows that helps you build dynamic web applications using Apache, PHP, and MySQL.</Program_Description>
+    <Program_Version>1.0.0</Program_Version>
+    <File_Info>
+      <File_Name>locnetserve1.0.0_x64.exe</File_Name>
+      <File_Size>624640</File_Size>
+      <OS_Support>Windows 10 64 bit, Windows 11</OS_Support>
+    </File_Info>
+  </Program_Info>
+  
+  <Publisher_Info>
+    <Publisher_Name>Sassi Souid</Publisher_Name>
+    <Publisher_Email>locnetserve@gmail.com</Publisher_Email>
+    <Publisher_Web_URL>https://github.com/sassisouid/locnetserve</Publisher_Web_URL>
+  </Publisher_Info>
+  
+  <System_Requirements>
+    <OS>Windows 10 and above</OS>
+    <OS_Min>Windows 10</OS_Min>
+    <RAM>1024</RAM>
+    <Free_Space>1873920</Free_Space>
+  </System_Requirements>
+  
+  <File_List>
+    <File>
+      <File_Name>locnetserve1.0.0_x64.exe</File_Name>
+      <File_Type>Installer</File_Type>
+      <File_Size>624640</File_Size>
+    </File>
+  </File_List>
+  
+  <Additional_Info>
+    <Category>Network & Internet :: Servers</Category>
+    <Languages>English</Languages>
+    <License>MIT</License>
+    <Price>Free</Price>
+    <Screenshot_URL>https://raw.githubusercontent.com/sassisouid/locnetserve/main/docs/assets/installer.jpg</Screenshot_URL>
+    <Screenshot_URL>https://raw.githubusercontent.com/sassisouid/locnetserve/main/docs/assets/required.jpg</Screenshot_URL>
+    <Screenshot_URL>https://raw.githubusercontent.com/sassisouid/locnetserve/main/docs/assets/startCli.jpg</Screenshot_URL>
+    <Screenshot_URL>https://raw.githubusercontent.com/sassisouid/locnetserve/main/docs/assets/locnetserve-cli.png</Screenshot_URL>
+    <Screenshot_URL>https://raw.githubusercontent.com/sassisouid/locnetserve/main/docs/assets/dashboard.jpg</Screenshot_URL>
+    <Download_URL>https://github.com/sassisouid/locnetserve/releases/download/v1/locnetserve1.0.0_x64.exe</Download_URL>
+  </Additional_Info>
+</XML_DIZ_INFO>
